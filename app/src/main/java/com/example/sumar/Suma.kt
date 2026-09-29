@@ -94,7 +94,7 @@ fun Suma(modifier: Modifier = Modifier) {
             )
         }
 
-        Spacer(Modifier.height(20.dp))
+        Spacer(Modifier.height(19.dp))
 
         Button(
             onClick = {
